@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback } from "react";
-import "../styles/ShoppingList.css";
+// import "../styles/ShoppingList.css";
 const items = [
   "Apples",
   "Bananas",
